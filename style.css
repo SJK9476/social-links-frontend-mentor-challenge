@@ -159,3 +159,8 @@ h2 {
     font-weight: var(--fw-semi-bold);
     border-radius: 5px;
 }
+
+.social-links a:hover {
+    background-color: var(--clr-green);
+    color: black;
+}
